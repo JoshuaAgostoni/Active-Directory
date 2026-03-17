@@ -6,7 +6,7 @@
 This project demonstrates the design and deployment of a secure Active Directory (AD) environment used for security testing, logging, and attack simulation. The environment was manually configured to showcase applied knowledge of <b>Identity and Access Management (IAM)</b>, network service hardening, and the attacker-defender lifecycle within a virtualized setting. All supporting evidence screenshots are located in the /screenshots folder within the GitHub repository.
 
 
-<h2>2.	Architecture Components:</h2>
+<h2>Architecture Components:</h2>
 
 * <b>VirtualBox Host-Only / NAT Network:</b> Isolated environment for safe vulnerability testing and network segmentation.
 * <b>Domain Controller (DC01):</b> Windows Server 2022 running AD DS and DNS services.
